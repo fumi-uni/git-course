@@ -6,5 +6,5 @@ Student id number: 151243936
 
 """
 
-print("Hello from feature")
+print("Hello from release")
 
