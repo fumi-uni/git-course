@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 """
 COMP.CS.100 Programming 1
 Creator: Fumika Matsuda
